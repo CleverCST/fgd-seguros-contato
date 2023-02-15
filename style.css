@@ -40,8 +40,8 @@ div > h1{
     padding-top: 7px;
 }
 ul{
-    padding: 20px;
-
+    padding: 40px;
+    margin: auto;
     list-style: none;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
@@ -52,7 +52,7 @@ ul{
 li{
     display: flex;
     padding: 10px;
-    justify-content: baseline;
+    justify-content: left;
     align-items: center;
 }
 li > a{
